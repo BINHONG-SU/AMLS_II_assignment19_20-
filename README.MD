@@ -1,4 +1,4 @@
-Due to the file size limitation, only codes are available in github, if you want to test the code, please use google drive to download the whole file, it contains all the trained models and processed data.
+Due to the file size limitation, only codes are available in github, if you want to test the code, please use google drive to download the whole file, it contains all the trained models, processed data and codes.
 https://drive.google.com/open?id=1aa0rGYXfnOHkah6NOdopDuvf8H9QqHuF
 
 This project is implemented by Python 3.5, and this project requires a lot of libraries: numpy, pandas, re, sklearn, bs4, nltk, gensim, keras, matplotlib, tensorflow
